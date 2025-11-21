@@ -1,0 +1,7 @@
+# ignore data
+data/processsed
+data/raw
+
+# ignore myenv
+myenv
+
